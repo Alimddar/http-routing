@@ -58,7 +58,7 @@ const routes = {
 
 const requestListener = async function (req, res) {
   try {
-    const parsedUrl = url.parse(req.url);
+    const parsedUrl = url.parse(req.url, true);
     const handler = routes[parsedUrl.pathname];
 
     if (handler) {
