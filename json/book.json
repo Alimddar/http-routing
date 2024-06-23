@@ -1,0 +1,38 @@
+[
+  {
+    "tittle": "Self-knowledge",
+    "author": "John Mason",
+    "description": "No description available",
+    "publish_date": 1745
+  },
+  {
+    "tittle": "Du contrat social",
+    "author": "Jean-Jacques Rousseau",
+    "description": "Tal vez no sea superfluo, al introducir el célebre libro de Rousseau, señalar como punto de partida que estamos ante un clásico fundacional del pensamiento político de la modernidad.",
+    "publish_date": 1762
+  },
+  {
+    "tittle": "Flatland",
+    "author": "Edwin Abbott Abbott",
+    "description": "I call our world Flatland, not because we call it so, but to make its nature clearer to you, my happy readers, who are privileged to live in Space.",
+    "publish_date": 1884
+  },
+  {
+    "tittle": "The Invisible Man",
+    "author": "H. G. Wells",
+    "description": "L'étranger arriva en février, par une matinée brumeuse, dans un tourbillon de vent et de neige.",
+    "publish_date": 1897
+  },
+  {
+    "tittle": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "description": "One minute it was Ohio winter, with doors closed, windows locked, the panes blind with frost, icicles fringing every roof, children skiing on slopes, housewives lumbering like great black bears in their furs along the icy streets.",
+    "publish_date": 1950
+  },
+  {
+    "tittle": "Dune",
+    "author": "Frank Herbert",
+    "description": "In the week before their departure to Arrakis, when all the final scurrying about had reached a nearly unbearable frenzy, an old crone came to visit the mother of the boy, Paul.",
+    "publish_date": 1965
+  }
+]
