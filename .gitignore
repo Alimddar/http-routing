@@ -1,2 +1,4 @@
 node_modules/
 .env
+git add .gitignore
+git commit -m "Remove .env file and update .gitignore"
